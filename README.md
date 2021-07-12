@@ -13,7 +13,7 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
 	
  	- Informática/2021;
  
- 
+ 	
  
 - Como me contactar:
 	
@@ -37,7 +37,7 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
 	
 	C;
 	
- 
+
 - Algumas coisas que gosto:
 	
 	Ver anime 📺 ;
