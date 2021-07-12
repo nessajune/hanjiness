@@ -1,6 +1,6 @@
 # Olá 👋
 	
-Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de informática integrado ao ensino médio no CTISM.
+Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de informática integrado ao ensino médio no CTISM.
  
  - 17 anos;
  - Brasil;
@@ -8,6 +8,8 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
  - CTISM-UFSM;
  - Informática/2021;
  
+
+
 - Como me contactar:
 	https://www.facebook.com/nessanascimento1/
 	https://www.instagram.com/nessa_836/
@@ -28,3 +30,4 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
 	Minha gata 🐈;
 	Aprender sobre programação🖥;
 
+Arquivo README modificado na branch nova_branch
