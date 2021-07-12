@@ -15,24 +15,29 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
  
  
 - Como me contactar:
+	
 	-https://www.facebook.com/nessanascimento1/
 	-https://www.instagram.com/nessa_836/
 
 
  - E-mail:
+	
 	-nessanascimento836@gmail.com
 
 
  - Pronomes
+	
 	-ela/elu
 	
 	
 - Sei algo sobre:
+	
 	-HTML;
 	-C;
 	
  
 - Algumas coisas que gosto:
+	
 	-Ver anime 📺 ;
 	
 	-Passar tempo com quem eu amo 👨‍👩‍👧 ;
