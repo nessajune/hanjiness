@@ -4,9 +4,13 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
  
  
  	- 17 anos;
+	
  	- Brasil;
+	
  	- Santa Maria/Rio Grande do Sul;
+	
  	- CTISM-UFSM;
+	
  	- Informática/2021;
  
  
@@ -30,7 +34,10 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
  
 - Algumas coisas que gosto:
 	-Ver anime 📺 ;
+	
 	-Passar tempo com quem eu amo 👨‍👩‍👧 ;
+	
 	-Minha gata 🐈;
+	
 	-Aprender sobre programação🖥;
 
