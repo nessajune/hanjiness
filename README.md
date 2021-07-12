@@ -13,13 +13,7 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 	
  	- Informática/2021;
  
-<<<<<<< HEAD
 
-
-=======
- 	
- 
->>>>>>> d93df25689efbfab05075f2d337e05c8d5e4cabf
 - Como me contactar:
 	
 	https://www.facebook.com/nessanascimento1/
