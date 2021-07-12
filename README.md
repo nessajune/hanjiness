@@ -32,18 +32,18 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando um curso técnico de i
 	
 - Sei algo sobre:
 	
-	-HTML;
+	HTML;
 	
-	-C;
+	C;
 	
  
 - Algumas coisas que gosto:
 	
-	-Ver anime 📺 ;
+	Ver anime 📺 ;
 	
-	-Passar tempo com quem eu amo 👨‍👩‍👧 ;
+	Passar tempo com quem eu amo 👨‍👩‍👧 ;
 	
-	-Minha gata 🐈;
+	Minha gata 🐈;
 	
-	-Aprender sobre programação🖥;
+	Aprender sobre programação🖥;
 
