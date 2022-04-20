@@ -11,7 +11,13 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 	
  	- CTISM-UFSM;
 	
- 	- Informática/2021;
+ 	- Informática/2022;
+	
+	- Tirei o título de eleitor!!!
+
+	- Pretendo fazer faculdade de Sistemas de Informação na UFSM.
+
+
  
 
 - Como me contactar:
@@ -36,6 +42,8 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 	
 	C;
 	
+	Javascript;
+
 
 - Algumas coisas que gosto:
 	
@@ -47,4 +55,3 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 	
 	Aprender sobre programação🖥;
 
-Arquivo README modificado na branch nova_branch
