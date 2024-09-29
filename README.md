@@ -15,7 +15,7 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 	
 	- Tirei o título de eleitor!!!
 
-	- Pretendo fazer faculdade de Sistemas de Informação na UFSM.
+	- Pretendo fazer faculdade de Sistemas de Informação na UFSM. (Estou fazendo :))
 
 
  
