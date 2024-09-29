@@ -33,7 +33,7 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 
  - Pronomes
 	
-	ela/elu
+	ela
 	
 	
 - Sei algo sobre:
@@ -43,6 +43,8 @@ Meu nome é Vanessa Nascimento, atualmente estou cursando o curso técnico de in
 	C;
 	
 	Javascript;
+
+	PHP;
 
 
 - Algumas coisas que gosto:
